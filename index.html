@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Proportional Elections</title>
+    <link rel="stylesheet" href="graphing-website-resources/map/map.css">
+</head>
+<body>
+    <div id="controls">
+        <div id="year-selector">
+            <select></select>
+        </div>
+        <div id="circle-mode">
+            <input type="checkbox" name="circle-mode-checkbox" id="circle-mode-checkbox">
+            <label for="circle-mode-checkbox">Third Party Circles</label>
+        </div>
+    </div>
+
+    <div id="map"></div>
+
+    <div id="state-information">
+        <h1 id="state-name">Hover over a State</h1>
+        <h3 id="republican-info"><span id="republican-name">Republican</span>: <span id="republican-electors">0</span> electors</h3>
+        <h3 id="democrat-info"><span id="democrat-name">Democrat</span>: <span id="democrat-electors">0</span> electors</h3>    
+        <h3 id="third-party-info"><span id="third-party-name">Third Party</span>: <span id="third-party-electors">0</span> electors</h3>
+        <h3>Total: <span id="total-electors">0</span> electors</h3>
+    </div>
+
+    <div id="election-summary">
+        <svg viewbox='0 -10 538 120' preserveAspectRatio='none'></svg>
+        <div id="candidates"></div>
+    </div>
+
+    <script src="graphing-website-resources/dependencies/d3.v5.min.js"></script>
+
+    <script src="graphing-website-resources/map/map.js"></script>
+</body>
+</html>

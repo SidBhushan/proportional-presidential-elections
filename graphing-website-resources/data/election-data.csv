@@ -1,0 +1,1196 @@
+year,state_po,candidate,party,electors
+1976,AL,"Carter, Jimmy",democrat,5
+1976,AL,"Ford, Gerald",republican,4
+1976,AK,"Ford, Gerald",republican,2
+1976,AK,"Carter, Jimmy",democrat,1
+1976,AZ,"Ford, Gerald",republican,4
+1976,AZ,"Carter, Jimmy",democrat,2
+1976,AR,"Carter, Jimmy",democrat,4
+1976,AR,"Ford, Gerald",republican,2
+1976,CA,"Ford, Gerald",republican,23
+1976,CA,"Carter, Jimmy",democrat,22
+1976,CO,"Ford, Gerald",republican,4
+1976,CO,"Carter, Jimmy",democrat,3
+1976,CT,"Ford, Gerald",republican,4
+1976,CT,"Carter, Jimmy",democrat,4
+1976,DE,"Carter, Jimmy",democrat,2
+1976,DE,"Ford, Gerald",republican,1
+1976,DC,"Carter, Jimmy",democrat,3
+1976,DC,"Ford, Gerald",republican,0
+1976,FL,"Carter, Jimmy",democrat,9
+1976,FL,"Ford, Gerald",republican,8
+1976,GA,"Carter, Jimmy",democrat,8
+1976,GA,"Ford, Gerald",republican,4
+1976,HI,"Carter, Jimmy",democrat,2
+1976,HI,"Ford, Gerald",republican,2
+1976,ID,"Ford, Gerald",republican,3
+1976,ID,"Carter, Jimmy",democrat,1
+1976,IL,"Ford, Gerald",republican,13
+1976,IL,"Carter, Jimmy",democrat,13
+1976,IN,"Ford, Gerald",republican,7
+1976,IN,"Carter, Jimmy",democrat,6
+1976,IA,"Ford, Gerald",republican,4
+1976,IA,"Carter, Jimmy",democrat,4
+1976,KS,"Ford, Gerald",republican,4
+1976,KS,"Carter, Jimmy",democrat,3
+1976,KY,"Carter, Jimmy",democrat,5
+1976,KY,"Ford, Gerald",republican,4
+1976,LA,"Carter, Jimmy",democrat,5
+1976,LA,"Ford, Gerald",republican,5
+1976,ME,"Ford, Gerald",republican,2
+1976,ME,"Carter, Jimmy",democrat,2
+1976,MD,"Carter, Jimmy",democrat,5
+1976,MD,"Ford, Gerald",republican,5
+1976,MA,"Carter, Jimmy",democrat,8
+1976,MA,"Ford, Gerald",republican,6
+1976,MI,"Ford, Gerald",republican,11
+1976,MI,"Carter, Jimmy",democrat,10
+1976,MN,"Carter, Jimmy",democrat,6
+1976,MN,"Ford, Gerald",republican,4
+1976,MS,"Carter, Jimmy",democrat,4
+1976,MS,"Ford, Gerald",republican,3
+1976,MO,"Carter, Jimmy",democrat,6
+1976,MO,"Ford, Gerald",republican,6
+1976,MT,"Ford, Gerald",republican,2
+1976,MT,"Carter, Jimmy",democrat,2
+1976,NE,"Ford, Gerald",republican,3
+1976,NE,"Carter, Jimmy",democrat,2
+1976,NV,"Ford, Gerald",republican,2
+1976,NV,"Carter, Jimmy",democrat,1
+1976,NH,"Ford, Gerald",republican,2
+1976,NH,"Carter, Jimmy",democrat,2
+1976,NJ,"Ford, Gerald",republican,9
+1976,NJ,"Carter, Jimmy",democrat,8
+1976,NM,"Ford, Gerald",republican,2
+1976,NM,"Carter, Jimmy",democrat,2
+1976,NY,"Carter, Jimmy",democrat,22
+1976,NY,"Ford, Gerald",republican,19
+1976,NC,"Carter, Jimmy",democrat,7
+1976,NC,"Ford, Gerald",republican,6
+1976,ND,"Ford, Gerald",republican,2
+1976,ND,"Carter, Jimmy",democrat,1
+1976,OH,"Carter, Jimmy",democrat,13
+1976,OH,"Ford, Gerald",republican,12
+1976,OK,"Ford, Gerald",republican,4
+1976,OK,"Carter, Jimmy",democrat,4
+1976,OR,"Ford, Gerald",republican,3
+1976,OR,"Carter, Jimmy",democrat,3
+1976,PA,"Carter, Jimmy",democrat,14
+1976,PA,"Ford, Gerald",republican,13
+1976,RI,"Carter, Jimmy",democrat,2
+1976,RI,"Ford, Gerald",republican,2
+1976,SC,"Carter, Jimmy",democrat,5
+1976,SC,"Ford, Gerald",republican,3
+1976,SD,"Ford, Gerald",republican,2
+1976,SD,"Carter, Jimmy",democrat,2
+1976,TN,"Carter, Jimmy",democrat,6
+1976,TN,"Ford, Gerald",republican,4
+1976,TX,"Carter, Jimmy",democrat,13
+1976,TX,"Ford, Gerald",republican,13
+1976,UT,"Ford, Gerald",republican,3
+1976,UT,"Carter, Jimmy",democrat,1
+1976,VT,"Ford, Gerald",republican,2
+1976,VT,"Carter, Jimmy",democrat,1
+1976,VA,"Ford, Gerald",republican,6
+1976,VA,"Carter, Jimmy",democrat,6
+1976,WA,"Ford, Gerald",republican,5
+1976,WA,"Carter, Jimmy",democrat,4
+1976,WV,"Carter, Jimmy",democrat,4
+1976,WV,"Ford, Gerald",republican,2
+1976,WI,"Carter, Jimmy",democrat,6
+1976,WI,"Ford, Gerald",republican,5
+1976,WY,"Ford, Gerald",republican,2
+1976,WY,"Carter, Jimmy",democrat,1
+1980,AL,"Reagan, Ronald",republican,5
+1980,AL,"Carter, Jimmy",democrat,4
+1980,AK,"Reagan, Ronald",republican,2
+1980,AK,"Carter, Jimmy",democrat,1
+1980,AK,"Clark, Edward """"Ed""""",libertarian,0
+1980,AZ,"Reagan, Ronald",republican,4
+1980,AZ,"Carter, Jimmy",democrat,2
+1980,AR,"Reagan, Ronald",republican,3
+1980,AR,"Carter, Jimmy",democrat,3
+1980,CA,"Reagan, Ronald",republican,27
+1980,CA,"Carter, Jimmy",democrat,18
+1980,CO,"Reagan, Ronald",republican,4
+1980,CO,"Carter, Jimmy",democrat,2
+1980,CO,"Anderson, John B.",national unity campaign,1
+1980,CT,"Reagan, Ronald",republican,4
+1980,CT,"Carter, Jimmy",democrat,3
+1980,CT,"Anderson, John B.",anderson coalition,1
+1980,DE,"Reagan, Ronald",republican,2
+1980,DE,"Carter, Jimmy",democrat,1
+1980,DC,"Carter, Jimmy",democrat,3
+1980,DC,"Reagan, Ronald",republican,0
+1980,FL,"Reagan, Ronald",republican,10
+1980,FL,"Carter, Jimmy",democrat,7
+1980,GA,"Carter, Jimmy",democrat,7
+1980,GA,"Reagan, Ronald",republican,5
+1980,HI,"Carter, Jimmy",democrat,2
+1980,HI,"Reagan, Ronald",republican,2
+1980,HI,"Anderson, John B.",independent,0
+1980,ID,"Reagan, Ronald",republican,3
+1980,ID,"Carter, Jimmy",democrat,1
+1980,IL,"Reagan, Ronald",republican,14
+1980,IL,"Carter, Jimmy",democrat,12
+1980,IN,"Reagan, Ronald",republican,8
+1980,IN,"Carter, Jimmy",democrat,5
+1980,IA,"Reagan, Ronald",republican,5
+1980,IA,"Carter, Jimmy",democrat,3
+1980,KS,"Reagan, Ronald",republican,5
+1980,KS,"Carter, Jimmy",democrat,2
+1980,KY,"Reagan, Ronald",republican,5
+1980,KY,"Carter, Jimmy",democrat,4
+1980,LA,"Reagan, Ronald",republican,5
+1980,LA,"Carter, Jimmy",democrat,5
+1980,ME,"Reagan, Ronald",republican,2
+1980,ME,"Carter, Jimmy",democrat,2
+1980,ME,"Anderson, John B.",independent,0
+1980,MD,"Carter, Jimmy",democrat,5
+1980,MD,"Reagan, Ronald",republican,5
+1980,MA,"Reagan, Ronald",republican,6
+1980,MA,"Carter, Jimmy",democrat,6
+1980,MA,"Anderson, John B.",independent,2
+1980,MI,"Reagan, Ronald",republican,11
+1980,MI,"Carter, Jimmy",democrat,10
+1980,MN,"Carter, Jimmy",democrat,5
+1980,MN,"Reagan, Ronald",republican,5
+1980,MS,"Reagan, Ronald",republican,4
+1980,MS,"Carter, Jimmy",democrat,3
+1980,MO,"Reagan, Ronald",republican,6
+1980,MO,"Carter, Jimmy",democrat,6
+1980,MT,"Reagan, Ronald",republican,3
+1980,MT,"Carter, Jimmy",democrat,1
+1980,NE,"Reagan, Ronald",republican,4
+1980,NE,"Carter, Jimmy",democrat,1
+1980,NV,"Reagan, Ronald",republican,2
+1980,NV,"Carter, Jimmy",democrat,1
+1980,NH,"Reagan, Ronald",republican,3
+1980,NH,"Carter, Jimmy",democrat,1
+1980,NH,"Anderson, John B.",independent,0
+1980,NJ,"Reagan, Ronald",republican,10
+1980,NJ,"Carter, Jimmy",democrat,7
+1980,NM,"Reagan, Ronald",republican,2
+1980,NM,"Carter, Jimmy",democrat,2
+1980,NY,"Carter, Jimmy",democrat,21
+1980,NY,"Reagan, Ronald",republican,20
+1980,NC,"Reagan, Ronald",republican,7
+1980,NC,"Carter, Jimmy",democrat,6
+1980,ND,"Reagan, Ronald",republican,2
+1980,ND,"Carter, Jimmy",democrat,1
+1980,OH,"Reagan, Ronald",republican,14
+1980,OH,"Carter, Jimmy",democrat,11
+1980,OK,"Reagan, Ronald",republican,5
+1980,OK,"Carter, Jimmy",democrat,3
+1980,OR,"Reagan, Ronald",republican,3
+1980,OR,"Carter, Jimmy",democrat,3
+1980,PA,"Reagan, Ronald",republican,15
+1980,PA,"Carter, Jimmy",democrat,12
+1980,RI,"Carter, Jimmy",democrat,2
+1980,RI,"Reagan, Ronald",republican,2
+1980,RI,"Anderson, John B.",independent,0
+1980,SC,"Reagan, Ronald",republican,4
+1980,SC,"Carter, Jimmy",democrat,4
+1980,SD,"Reagan, Ronald",republican,3
+1980,SD,"Carter, Jimmy",democrat,1
+1980,TN,"Reagan, Ronald",republican,5
+1980,TN,"Carter, Jimmy",democrat,5
+1980,TX,"Reagan, Ronald",republican,15
+1980,TX,"Carter, Jimmy",democrat,11
+1980,UT,"Reagan, Ronald",republican,3
+1980,UT,"Carter, Jimmy",democrat,1
+1980,VT,"Reagan, Ronald",republican,2
+1980,VT,"Carter, Jimmy",democrat,1
+1980,VT,"Anderson, John B.",independent,0
+1980,VA,"Reagan, Ronald",republican,7
+1980,VA,"Carter, Jimmy",democrat,5
+1980,WA,"Reagan, Ronald",republican,5
+1980,WA,"Carter, Jimmy",democrat,3
+1980,WA,"Anderson, John B.",independent,1
+1980,WV,"Carter, Jimmy",democrat,3
+1980,WV,"Reagan, Ronald",republican,3
+1980,WI,"Reagan, Ronald",republican,6
+1980,WI,"Carter, Jimmy",democrat,5
+1980,WY,"Reagan, Ronald",republican,2
+1980,WY,"Carter, Jimmy",democrat,1
+1984,AL,"Reagan, Ronald",republican,6
+1984,AL,"Mondale, Walter",democrat,3
+1984,AK,"Reagan, Ronald",republican,2
+1984,AK,"Mondale, Walter",democrat,1
+1984,AZ,"Reagan, Ronald",republican,5
+1984,AZ,"Mondale, Walter",democrat,2
+1984,AR,"Reagan, Ronald",republican,4
+1984,AR,"Mondale, Walter",democrat,2
+1984,CA,"Reagan, Ronald",republican,27
+1984,CA,"Mondale, Walter",democrat,20
+1984,CO,"Reagan, Ronald",republican,5
+1984,CO,"Mondale, Walter",democrat,3
+1984,CT,"Reagan, Ronald",republican,5
+1984,CT,"Mondale, Walter",democrat,3
+1984,DE,"Reagan, Ronald",republican,2
+1984,DE,"Mondale, Walter",democrat,1
+1984,DC,"Mondale, Walter",democrat,3
+1984,DC,"Reagan, Ronald",republican,0
+1984,FL,"Reagan, Ronald",republican,14
+1984,FL,"Mondale, Walter",democrat,7
+1984,GA,"Reagan, Ronald",republican,7
+1984,GA,"Mondale, Walter",democrat,5
+1984,HI,"Reagan, Ronald",republican,2
+1984,HI,"Mondale, Walter",democrat,2
+1984,ID,"Reagan, Ronald",republican,3
+1984,ID,"Mondale, Walter",democrat,1
+1984,IL,"Reagan, Ronald",republican,14
+1984,IL,"Mondale, Walter",democrat,10
+1984,IN,"Reagan, Ronald",republican,8
+1984,IN,"Mondale, Walter",democrat,4
+1984,IA,"Reagan, Ronald",republican,4
+1984,IA,"Mondale, Walter",democrat,4
+1984,KS,"Reagan, Ronald",republican,5
+1984,KS,"Mondale, Walter",democrat,2
+1984,KY,"Reagan, Ronald",republican,6
+1984,KY,"Mondale, Walter",democrat,3
+1984,LA,"Reagan, Ronald",republican,6
+1984,LA,"Mondale, Walter",democrat,4
+1984,ME,"Reagan, Ronald",republican,3
+1984,ME,"Mondale, Walter",democrat,1
+1984,MD,"Reagan, Ronald",republican,5
+1984,MD,"Mondale, Walter",democrat,5
+1984,MA,"Reagan, Ronald",republican,7
+1984,MA,"Mondale, Walter",democrat,6
+1984,MI,"Reagan, Ronald",republican,12
+1984,MI,"Mondale, Walter",democrat,8
+1984,MN,"Mondale, Walter",democrat,5
+1984,MN,"Reagan, Ronald",republican,5
+1984,MS,"Reagan, Ronald",republican,4
+1984,MS,"Mondale, Walter",democrat,3
+1984,MO,"Reagan, Ronald",republican,7
+1984,MO,"Mondale, Walter",democrat,4
+1984,MT,"Reagan, Ronald",republican,3
+1984,MT,"Mondale, Walter",democrat,1
+1984,NE,"Reagan, Ronald",republican,4
+1984,NE,"Mondale, Walter",democrat,1
+1984,NV,"Reagan, Ronald",republican,3
+1984,NV,"Mondale, Walter",democrat,1
+1984,NH,"Reagan, Ronald",republican,3
+1984,NH,"Mondale, Walter",democrat,1
+1984,NJ,"Reagan, Ronald",republican,10
+1984,NJ,"Mondale, Walter",democrat,6
+1984,NM,"Reagan, Ronald",republican,3
+1984,NM,"Mondale, Walter",democrat,2
+1984,NY,"Reagan, Ronald",republican,19
+1984,NY,"Mondale, Walter",democrat,17
+1984,NC,"Reagan, Ronald",republican,8
+1984,NC,"Mondale, Walter",democrat,5
+1984,ND,"Reagan, Ronald",republican,2
+1984,ND,"Mondale, Walter",democrat,1
+1984,OH,"Reagan, Ronald",republican,14
+1984,OH,"Mondale, Walter",democrat,9
+1984,OK,"Reagan, Ronald",republican,6
+1984,OK,"Mondale, Walter",democrat,2
+1984,OR,"Reagan, Ronald",republican,4
+1984,OR,"Mondale, Walter",democrat,3
+1984,PA,"Reagan, Ronald",republican,13
+1984,PA,"Mondale, Walter",democrat,12
+1984,RI,"Reagan, Ronald",republican,2
+1984,RI,"Mondale, Walter",democrat,2
+1984,SC,"Reagan, Ronald",republican,5
+1984,SC,"Mondale, Walter",democrat,3
+1984,SD,"Reagan, Ronald",republican,2
+1984,SD,"Mondale, Walter",democrat,1
+1984,TN,"Reagan, Ronald",republican,6
+1984,TN,"Mondale, Walter",democrat,5
+1984,TX,"Reagan, Ronald",republican,19
+1984,TX,"Mondale, Walter",democrat,10
+1984,UT,"Reagan, Ronald",republican,4
+1984,UT,"Mondale, Walter",democrat,1
+1984,VT,"Reagan, Ronald",republican,2
+1984,VT,"Mondale, Walter",democrat,1
+1984,VA,"Reagan, Ronald",republican,8
+1984,VA,"Mondale, Walter",democrat,4
+1984,WA,"Reagan, Ronald",republican,6
+1984,WA,"Mondale, Walter",democrat,4
+1984,WV,"Reagan, Ronald",republican,3
+1984,WV,"Mondale, Walter",democrat,3
+1984,WI,"Reagan, Ronald",republican,6
+1984,WI,"Mondale, Walter",democrat,5
+1984,WY,"Reagan, Ronald",republican,2
+1984,WY,"Mondale, Walter",democrat,1
+1988,AL,"Bush, George H.W.",republican,5
+1988,AL,"Dukakis, Michael",democrat,4
+1988,AK,"Bush, George H.W.",republican,2
+1988,AK,"Dukakis, Michael",democrat,1
+1988,AZ,"Bush, George H.W.",republican,4
+1988,AZ,"Dukakis, Michael",democrat,3
+1988,AR,"Bush, George H.W.",republican,4
+1988,AR,"Dukakis, Michael",democrat,2
+1988,CA,"Bush, George H.W.",republican,24
+1988,CA,"Dukakis, Michael",democrat,23
+1988,CO,"Bush, George H.W.",republican,4
+1988,CO,"Dukakis, Michael",democrat,4
+1988,CT,"Bush, George H.W.",republican,4
+1988,CT,"Dukakis, Michael",democrat,4
+1988,DE,"Bush, George H.W.",republican,2
+1988,DE,"Dukakis, Michael",democrat,1
+1988,DC,"Dukakis, Michael",democrat,3
+1988,DC,"Bush, George H.W.",republican,0
+1988,FL,"Bush, George H.W.",republican,13
+1988,FL,"Dukakis, Michael",democrat,8
+1988,GA,"Bush, George H.W.",republican,7
+1988,GA,"Dukakis, Michael",democrat,5
+1988,HI,"Dukakis, Michael",democrat,2
+1988,HI,"Bush, George H.W.",republican,2
+1988,ID,"Bush, George H.W.",republican,3
+1988,ID,"Dukakis, Michael",democrat,1
+1988,IL,"Bush, George H.W.",republican,12
+1988,IL,"Dukakis, Michael",democrat,12
+1988,IN,"Bush, George H.W.",republican,7
+1988,IN,"Dukakis, Michael",democrat,5
+1988,IA,"Dukakis, Michael",democrat,4
+1988,IA,"Bush, George H.W.",republican,4
+1988,KS,"Bush, George H.W.",republican,4
+1988,KS,"Dukakis, Michael",democrat,3
+1988,KY,"Bush, George H.W.",republican,5
+1988,KY,"Dukakis, Michael",democrat,4
+1988,LA,"Bush, George H.W.",republican,6
+1988,LA,"Dukakis, Michael",democrat,4
+1988,ME,"Bush, George H.W.",republican,2
+1988,ME,"Dukakis, Michael",democrat,2
+1988,MD,"Bush, George H.W.",republican,5
+1988,MD,"Dukakis, Michael",democrat,5
+1988,MA,"Dukakis, Michael",democrat,7
+1988,MA,"Bush, George H.W.",republican,6
+1988,MI,"Bush, George H.W.",republican,11
+1988,MI,"Dukakis, Michael",democrat,9
+1988,MN,"Dukakis, Michael",democrat,5
+1988,MN,"Bush, George H.W.",republican,5
+1988,MS,"Bush, George H.W.",republican,4
+1988,MS,"Dukakis, Michael",democrat,3
+1988,MO,"Bush, George H.W.",republican,6
+1988,MO,"Dukakis, Michael",democrat,5
+1988,MT,"Bush, George H.W.",republican,2
+1988,MT,"Dukakis, Michael",democrat,2
+1988,NE,"Bush, George H.W.",republican,3
+1988,NE,"Dukakis, Michael",democrat,2
+1988,NV,"Bush, George H.W.",republican,3
+1988,NV,"Dukakis, Michael",democrat,1
+1988,NH,"Bush, George H.W.",republican,3
+1988,NH,"Dukakis, Michael",democrat,1
+1988,NJ,"Bush, George H.W.",republican,9
+1988,NJ,"Dukakis, Michael",democrat,7
+1988,NM,"Bush, George H.W.",republican,3
+1988,NM,"Dukakis, Michael",democrat,2
+1988,NY,"Dukakis, Michael",democrat,19
+1988,NY,"Bush, George H.W.",republican,17
+1988,NC,"Bush, George H.W.",republican,8
+1988,NC,"Dukakis, Michael",democrat,5
+1988,ND,"Bush, George H.W.",republican,2
+1988,ND,"Dukakis, Michael",democrat,1
+1988,OH,"Bush, George H.W.",republican,13
+1988,OH,"Dukakis, Michael",democrat,10
+1988,OK,"Bush, George H.W.",republican,5
+1988,OK,"Dukakis, Michael",democrat,3
+1988,OR,"Dukakis, Michael",democrat,4
+1988,OR,"Bush, George H.W.",republican,3
+1988,PA,"Bush, George H.W.",republican,13
+1988,PA,"Dukakis, Michael",democrat,12
+1988,RI,"Dukakis, Michael",democrat,2
+1988,RI,"Bush, George H.W.",republican,2
+1988,SC,"Bush, George H.W.",republican,5
+1988,SC,"Dukakis, Michael",democrat,3
+1988,SD,"Bush, George H.W.",republican,2
+1988,SD,"Dukakis, Michael",democrat,1
+1988,TN,"Bush, George H.W.",republican,6
+1988,TN,"Dukakis, Michael",democrat,5
+1988,TX,"Bush, George H.W.",republican,16
+1988,TX,"Dukakis, Michael",democrat,13
+1988,UT,"Bush, George H.W.",republican,4
+1988,UT,"Dukakis, Michael",democrat,1
+1988,VT,"Bush, George H.W.",republican,2
+1988,VT,"Dukakis, Michael",democrat,1
+1988,VA,"Bush, George H.W.",republican,7
+1988,VA,"Dukakis, Michael",democrat,5
+1988,WA,"Dukakis, Michael",democrat,5
+1988,WA,"Bush, George H.W.",republican,5
+1988,WV,"Dukakis, Michael",democrat,3
+1988,WV,"Bush, George H.W.",republican,3
+1988,WI,"Dukakis, Michael",democrat,6
+1988,WI,"Bush, George H.W.",republican,5
+1988,WY,"Bush, George H.W.",republican,2
+1988,WY,"Dukakis, Michael",democrat,1
+1992,AL,"Bush, George H.W.",republican,4
+1992,AL,"Clinton, Bill",democrat,4
+1992,AL,"Perot, Ross",independent,1
+1992,AK,"Bush, George H.W.",republican,1
+1992,AK,"Clinton, Bill",democrat,1
+1992,AK,"Perot, Ross",independent,1
+1992,AZ,"Bush, George H.W.",republican,3
+1992,AZ,"Clinton, Bill",democrat,3
+1992,AZ,"Perot, Ross",independent,2
+1992,AR,"Clinton, Bill",democrat,4
+1992,AR,"Bush, George H.W.",republican,2
+1992,AR,"Perot, Ross",independent,0
+1992,CA,"Clinton, Bill",democrat,25
+1992,CA,"Bush, George H.W.",republican,18
+1992,CA,"Perot, Ross",independent,11
+1992,CO,"Clinton, Bill",democrat,3
+1992,CO,"Bush, George H.W.",republican,3
+1992,CO,"Perot, Ross",independent,2
+1992,CT,"Clinton, Bill",democrat,3
+1992,CT,"Bush, George H.W.",republican,3
+1992,CT,"Perot, Ross",independent,2
+1992,DE,"Clinton, Bill",democrat,2
+1992,DE,"Bush, George H.W.",republican,1
+1992,DE,"Perot, Ross",independent,0
+1992,DC,"Clinton, Bill",democrat,3
+1992,FL,"Bush, George H.W.",republican,10
+1992,FL,"Clinton, Bill",democrat,10
+1992,FL,"Perot, Ross",independent,5
+1992,GA,"Clinton, Bill",democrat,6
+1992,GA,"Bush, George H.W.",republican,6
+1992,GA,"Perot, Ross",independent,1
+1992,HI,"Clinton, Bill",democrat,2
+1992,HI,"Bush, George H.W.",republican,2
+1992,HI,"Perot, Ross",independent,0
+1992,ID,"Bush, George H.W.",republican,2
+1992,ID,"Clinton, Bill",democrat,1
+1992,ID,"Perot, Ross",independent,1
+1992,IL,"Clinton, Bill",democrat,11
+1992,IL,"Bush, George H.W.",republican,8
+1992,IL,"Perot, Ross",independent,3
+1992,IN,"Bush, George H.W.",republican,5
+1992,IN,"Clinton, Bill",democrat,5
+1992,IN,"Perot, Ross",independent,2
+1992,IA,"Clinton, Bill",democrat,3
+1992,IA,"Bush, George H.W.",republican,3
+1992,IA,"Perot, Ross",independent,1
+1992,KS,"Bush, George H.W.",republican,2
+1992,KS,"Clinton, Bill",democrat,2
+1992,KS,"Perot, Ross",independent,2
+1992,KY,"Clinton, Bill",democrat,4
+1992,KY,"Bush, George H.W.",republican,3
+1992,KY,"Perot, Ross",independent,1
+1992,LA,"Clinton, Bill",democrat,4
+1992,LA,"Bush, George H.W.",republican,4
+1992,LA,"Perot, Ross",independent,1
+1992,ME,"Clinton, Bill",democrat,2
+1992,ME,"Perot, Ross",independent,1
+1992,ME,"Bush, George H.W.",republican,1
+1992,MD,"Clinton, Bill",democrat,5
+1992,MD,"Bush, George H.W.",republican,4
+1992,MD,"Perot, Ross",independent,1
+1992,MA,"Clinton, Bill",democrat,6
+1992,MA,"Bush, George H.W.",republican,3
+1992,MA,"Perot, Ross",independent,3
+1992,MI,"Clinton, Bill",democrat,8
+1992,MI,"Bush, George H.W.",republican,7
+1992,MI,"Perot, Ross",independent,3
+1992,MN,"Clinton, Bill",democrat,5
+1992,MN,"Bush, George H.W.",republican,3
+1992,MN,"Perot, Ross",independent,2
+1992,MS,"Bush, George H.W.",republican,4
+1992,MS,"Clinton, Bill",democrat,3
+1992,MO,"Clinton, Bill",democrat,5
+1992,MO,"Bush, George H.W.",republican,4
+1992,MO,"Perot, Ross",independent,2
+1992,MT,"Clinton, Bill",democrat,1
+1992,MT,"Bush, George H.W.",republican,1
+1992,MT,"Perot, Ross",independent,1
+1992,NE,"Bush, George H.W.",republican,3
+1992,NE,"Clinton, Bill",democrat,1
+1992,NE,"Perot, Ross",independent,1
+1992,NV,"Clinton, Bill",democrat,2
+1992,NV,"Bush, George H.W.",republican,1
+1992,NV,"Perot, Ross",independent,1
+1992,NH,"Clinton, Bill",democrat,2
+1992,NH,"Bush, George H.W.",republican,1
+1992,NH,"Perot, Ross",independent,1
+1992,NJ,"Clinton, Bill",democrat,7
+1992,NJ,"Bush, George H.W.",republican,6
+1992,NJ,"Perot, Ross",independent,2
+1992,NM,"Clinton, Bill",democrat,2
+1992,NM,"Bush, George H.W.",republican,2
+1992,NM,"Perot, Ross",independent,1
+1992,NY,"Clinton, Bill",democrat,18
+1992,NY,"Bush, George H.W.",republican,10
+1992,NY,"Perot, Ross",independent,5
+1992,NC,"Bush, George H.W.",republican,6
+1992,NC,"Clinton, Bill",democrat,6
+1992,NC,"Perot, Ross",independent,2
+1992,ND,"Bush, George H.W.",republican,1
+1992,ND,"Clinton, Bill",democrat,1
+1992,ND,"Perot, Ross",independent,1
+1992,OH,"Clinton, Bill",democrat,9
+1992,OH,"Bush, George H.W.",republican,8
+1992,OH,"Perot, Ross",independent,4
+1992,OK,"Bush, George H.W.",republican,3
+1992,OK,"Clinton, Bill",democrat,3
+1992,OK,"Perot, Ross",independent,2
+1992,OR,"Clinton, Bill",democrat,3
+1992,OR,"Bush, George H.W.",republican,2
+1992,OR,"Perot, Ross",independent,2
+1992,PA,"Clinton, Bill",democrat,11
+1992,PA,"Bush, George H.W.",republican,8
+1992,PA,"Perot, Ross",independent,4
+1992,RI,"Clinton, Bill",democrat,2
+1992,RI,"Bush, George H.W.",republican,1
+1992,RI,"Perot, Ross",independent,1
+1992,SC,"Bush, George H.W.",republican,4
+1992,SC,"Clinton, Bill",democrat,4
+1992,SD,"Bush, George H.W.",republican,1
+1992,SD,"Clinton, Bill",democrat,1
+1992,SD,"Perot, Ross",independent,1
+1992,TN,"Clinton, Bill",democrat,5
+1992,TN,"Bush, George H.W.",republican,5
+1992,TN,"Perot, Ross",independent,1
+1992,TX,"Bush, George H.W.",republican,13
+1992,TX,"Clinton, Bill",democrat,12
+1992,TX,"Perot, Ross",independent,7
+1992,UT,"Bush, George H.W.",republican,3
+1992,UT,"Perot, Ross",independent,1
+1992,UT,"Clinton, Bill",democrat,1
+1992,VT,"Clinton, Bill",democrat,2
+1992,VT,"Bush, George H.W.",republican,1
+1992,VT,"Perot, Ross",independent,0
+1992,VA,"Bush, George H.W.",republican,6
+1992,VA,"Clinton, Bill",democrat,5
+1992,VA,"Perot, Ross",independent,2
+1992,WA,"Clinton, Bill",democrat,5
+1992,WA,"Bush, George H.W.",republican,4
+1992,WA,"Perot, Ross",independent,2
+1992,WV,"Clinton, Bill",democrat,3
+1992,WV,"Bush, George H.W.",republican,2
+1992,WV,"Perot, Ross",independent,0
+1992,WI,"Clinton, Bill",democrat,5
+1992,WI,"Bush, George H.W.",republican,4
+1992,WI,"Perot, Ross",independent,2
+1992,WY,"Bush, George H.W.",republican,1
+1992,WY,"Clinton, Bill",democrat,1
+1992,WY,"Perot, Ross",independent,1
+1996,AL,"Dole, Robert",republican,5
+1996,AL,"Clinton, Bill",democrat,4
+1996,AK,"Dole, Robert",republican,2
+1996,AK,"Clinton, Bill",democrat,1
+1996,AK,"Perot, Ross",reform party,0
+1996,AZ,"Clinton, Bill",democrat,4
+1996,AZ,"Dole, Robert",republican,4
+1996,AR,"Clinton, Bill",democrat,4
+1996,AR,"Dole, Robert",republican,2
+1996,CA,"Clinton, Bill",democrat,31
+1996,CA,"Dole, Robert",republican,23
+1996,CO,"Dole, Robert",republican,4
+1996,CO,"Clinton, Bill",democrat,4
+1996,CT,"Clinton, Bill",democrat,5
+1996,CT,"Dole, Robert",republican,3
+1996,CT,"Perot, Ross",reform party,0
+1996,DE,"Clinton, Bill",democrat,2
+1996,DE,"Dole, Robert",republican,1
+1996,DE,"Perot, Ross",unaffiliated,0
+1996,DC,"Clinton, Bill",democrat,3
+1996,FL,"Clinton, Bill",democrat,13
+1996,FL,"Dole, Robert",republican,12
+1996,GA,"Dole, Robert",republican,7
+1996,GA,"Clinton, Bill",democrat,6
+1996,HI,"Clinton, Bill",democrat,3
+1996,HI,"Dole, Robert",republican,1
+1996,ID,"Dole, Robert",republican,3
+1996,ID,"Clinton, Bill",democrat,1
+1996,ID,"Perot, Ross",reform party,0
+1996,IL,"Clinton, Bill",democrat,13
+1996,IL,"Dole, Robert",republican,9
+1996,IN,"Dole, Robert",republican,6
+1996,IN,"Clinton, Bill",democrat,5
+1996,IN,"Perot, Ross",reform party,1
+1996,IA,"Clinton, Bill",democrat,4
+1996,IA,"Dole, Robert",republican,3
+1996,KS,"Dole, Robert",republican,4
+1996,KS,"Clinton, Bill",democrat,2
+1996,KY,"Clinton, Bill",democrat,4
+1996,KY,"Dole, Robert",republican,4
+1996,LA,"Clinton, Bill",democrat,5
+1996,LA,"Dole, Robert",republican,4
+1996,ME,"Clinton, Bill",democrat,3
+1996,ME,"Dole, Robert",republican,1
+1996,ME,"Perot, Ross",reform party,0
+1996,MD,"Clinton, Bill",democrat,6
+1996,MD,"Dole, Robert",republican,4
+1996,MA,"Clinton, Bill",democrat,8
+1996,MA,"Dole, Robert",republican,4
+1996,MI,"Clinton, Bill",democrat,10
+1996,MI,"Dole, Robert",republican,8
+1996,MN,"Clinton, Bill",democrat,5
+1996,MN,"Dole, Robert",republican,4
+1996,MN,"Perot, Ross",reform party,1
+1996,MS,"Dole, Robert",republican,4
+1996,MS,"Clinton, Bill",democrat,3
+1996,MO,"Clinton, Bill",democrat,5
+1996,MO,"Dole, Robert",republican,5
+1996,MO,"Perot, Ross",reform party,1
+1996,MT,"Dole, Robert",republican,2
+1996,MT,"Clinton, Bill",democrat,1
+1996,MT,"Perot, Ross",reform party,0
+1996,NE,"Dole, Robert",republican,3
+1996,NE,"Clinton, Bill",democrat,2
+1996,NE,"Perot, Ross",reform party,0
+1996,NV,"Clinton, Bill",democrat,2
+1996,NV,"Dole, Robert",republican,2
+1996,NH,"Clinton, Bill",democrat,2
+1996,NH,"Dole, Robert",republican,2
+1996,NJ,"Clinton, Bill",democrat,8
+1996,NJ,"Dole, Robert",republican,6
+1996,NJ,,independent,1
+1996,NM,"Clinton, Bill",democrat,3
+1996,NM,"Dole, Robert",republican,2
+1996,NY,"Clinton, Bill",democrat,23
+1996,NY,"Dole, Robert",republican,10
+1996,NC,"Dole, Robert",republican,7
+1996,NC,"Clinton, Bill",democrat,7
+1996,ND,"Dole, Robert",republican,2
+1996,ND,"Clinton, Bill",democrat,1
+1996,ND,"Perot, Ross",reform party,0
+1996,OH,"Clinton, Bill",democrat,10
+1996,OH,"Dole, Robert",republican,9
+1996,OH,"Perot, Ross",reform party,2
+1996,OK,"Dole, Robert",republican,4
+1996,OK,"Clinton, Bill",democrat,3
+1996,OK,"Perot, Ross",reform party,1
+1996,OR,"Clinton, Bill",democrat,4
+1996,OR,"Dole, Robert",republican,3
+1996,PA,"Clinton, Bill",democrat,13
+1996,PA,"Dole, Robert",republican,10
+1996,RI,"Clinton, Bill",democrat,3
+1996,RI,"Dole, Robert",republican,1
+1996,RI,"Perot, Ross",reform party,0
+1996,SC,"Dole, Robert",republican,4
+1996,SC,"Clinton, Bill",democrat,4
+1996,SD,"Dole, Robert",republican,2
+1996,SD,"Clinton, Bill",democrat,1
+1996,SD,,independent,0
+1996,TN,"Clinton, Bill",democrat,6
+1996,TN,"Dole, Robert",republican,5
+1996,TX,"Dole, Robert",republican,17
+1996,TX,"Clinton, Bill",democrat,15
+1996,UT,"Dole, Robert",republican,3
+1996,UT,"Clinton, Bill",democrat,2
+1996,VT,"Clinton, Bill",democrat,2
+1996,VT,"Dole, Robert",republican,1
+1996,VT,"Perot, Ross",reform party,0
+1996,VA,"Dole, Robert",republican,7
+1996,VA,"Clinton, Bill",democrat,6
+1996,WA,"Clinton, Bill",democrat,6
+1996,WA,"Dole, Robert",republican,5
+1996,WV,"Clinton, Bill",democrat,3
+1996,WV,"Dole, Robert",republican,2
+1996,WV,"Perot, Ross",reform party,0
+1996,WI,"Clinton, Bill",democrat,6
+1996,WI,"Dole, Robert",republican,4
+1996,WI,"Perot, Ross",reform party,1
+1996,WY,"Dole, Robert",republican,2
+1996,WY,"Clinton, Bill",democrat,1
+1996,WY,"Perot, Ross",independent,0
+2000,AL,"Bush, George W.",republican,5
+2000,AL,"Gore, Al",democrat,4
+2000,AK,"Bush, George W.",republican,2
+2000,AK,"Gore, Al",democrat,1
+2000,AK,"Nader, Ralph",green,0
+2000,AZ,"Bush, George W.",republican,4
+2000,AZ,"Gore, Al",democrat,4
+2000,AR,"Bush, George W.",republican,3
+2000,AR,"Gore, Al",democrat,3
+2000,CA,"Gore, Al",democrat,30
+2000,CA,"Bush, George W.",republican,24
+2000,CO,"Bush, George W.",republican,4
+2000,CO,"Gore, Al",democrat,4
+2000,CT,"Gore, Al",democrat,5
+2000,CT,"Bush, George W.",republican,3
+2000,DE,"Gore, Al",democrat,2
+2000,DE,"Bush, George W.",republican,1
+2000,DC,"Gore, Al",democrat,3
+2000,FL,"Bush, George W.",republican,13
+2000,FL,"Gore, Al",democrat,12
+2000,GA,"Bush, George W.",republican,7
+2000,GA,"Gore, Al",democrat,6
+2000,HI,"Gore, Al",democrat,2
+2000,HI,"Bush, George W.",republican,2
+2000,ID,"Bush, George W.",republican,3
+2000,ID,"Gore, Al",democrat,1
+2000,IL,"Gore, Al",democrat,12
+2000,IL,"Bush, George W.",republican,10
+2000,IN,"Bush, George W.",republican,7
+2000,IN,"Gore, Al",democrat,5
+2000,IA,"Gore, Al",democrat,4
+2000,IA,"Bush, George W.",republican,3
+2000,KS,"Bush, George W.",republican,4
+2000,KS,"Gore, Al",democrat,2
+2000,KY,"Bush, George W.",republican,5
+2000,KY,"Gore, Al",democrat,3
+2000,LA,"Bush, George W.",republican,5
+2000,LA,"Gore, Al",democrat,4
+2000,ME,"Gore, Al",democrat,2
+2000,ME,"Bush, George W.",republican,2
+2000,MD,"Gore, Al",democrat,6
+2000,MD,"Bush, George W.",republican,4
+2000,MA,"Gore, Al",democrat,8
+2000,MA,"Bush, George W.",republican,4
+2000,MI,"Gore, Al",democrat,10
+2000,MI,"Bush, George W.",republican,8
+2000,MN,"Gore, Al",democrat,5
+2000,MN,"Bush, George W.",republican,5
+2000,MS,"Bush, George W.",republican,4
+2000,MS,"Gore, Al",democrat,3
+2000,MO,"Bush, George W.",republican,6
+2000,MO,"Gore, Al",democrat,5
+2000,MT,"Bush, George W.",republican,2
+2000,MT,"Gore, Al",democrat,1
+2000,NE,"Bush, George W.",republican,3
+2000,NE,"Gore, Al",democrat,2
+2000,NV,"Bush, George W.",republican,2
+2000,NV,"Gore, Al",democrat,2
+2000,NH,"Bush, George W.",republican,2
+2000,NH,"Gore, Al",democrat,2
+2000,NJ,"Gore, Al",democrat,9
+2000,NJ,"Bush, George W.",republican,6
+2000,NM,"Gore, Al",democrat,3
+2000,NM,"Bush, George W.",republican,2
+2000,NY,"Gore, Al",democrat,21
+2000,NY,"Bush, George W.",republican,12
+2000,NC,"Bush, George W.",republican,8
+2000,NC,"Gore, Al",democrat,6
+2000,ND,"Bush, George W.",republican,2
+2000,ND,"Gore, Al",democrat,1
+2000,OH,"Bush, George W.",republican,11
+2000,OH,"Gore, Al",democrat,10
+2000,OK,"Bush, George W.",republican,5
+2000,OK,"Gore, Al",democrat,3
+2000,OR,"Gore, Al",democrat,4
+2000,OR,"Bush, George W.",republican,3
+2000,PA,"Gore, Al",democrat,12
+2000,PA,"Bush, George W.",republican,11
+2000,RI,"Gore, Al",democrat,3
+2000,RI,"Bush, George W.",republican,1
+2000,SC,"Bush, George W.",republican,5
+2000,SC,"Gore, Al",democrat,3
+2000,SD,"Bush, George W.",republican,2
+2000,SD,"Gore, Al",democrat,1
+2000,TN,"Bush, George W.",republican,6
+2000,TN,"Gore, Al",democrat,5
+2000,TX,"Bush, George W.",republican,20
+2000,TX,"Gore, Al",democrat,12
+2000,UT,"Bush, George W.",republican,4
+2000,UT,"Gore, Al",democrat,1
+2000,VT,"Gore, Al",democrat,2
+2000,VT,"Bush, George W.",republican,1
+2000,VA,"Bush, George W.",republican,7
+2000,VA,"Gore, Al",democrat,6
+2000,WA,"Gore, Al",democrat,6
+2000,WA,"Bush, George W.",republican,5
+2000,WV,"Bush, George W.",republican,3
+2000,WV,"Gore, Al",democrat,2
+2000,WI,"Gore, Al",democrat,6
+2000,WI,"Bush, George W.",republican,5
+2000,WY,"Bush, George W.",republican,2
+2000,WY,"Gore, Al",democrat,1
+2004,AL,"Bush, George W.",republican,6
+2004,AL,"Kerry, John",democrat,3
+2004,AK,"Bush, George W.",republican,2
+2004,AK,"Kerry, John",democrat,1
+2004,AZ,"Bush, George W.",republican,6
+2004,AZ,"Kerry, John",democrat,4
+2004,AR,"Bush, George W.",republican,3
+2004,AR,"Kerry, John",democrat,3
+2004,CA,"Kerry, John",democrat,30
+2004,CA,"Bush, George W.",republican,25
+2004,CO,"Bush, George W.",republican,5
+2004,CO,"Kerry, John",democrat,4
+2004,CT,"Kerry, John",democrat,4
+2004,CT,"Bush, George W.",republican,3
+2004,DE,"Kerry, John",democrat,2
+2004,DE,"Bush, George W.",republican,1
+2004,DC,"Kerry, John",democrat,3
+2004,FL,"Bush, George W.",republican,14
+2004,FL,"Kerry, John",democrat,13
+2004,GA,"Bush, George W.",republican,9
+2004,GA,"Kerry, John",democrat,6
+2004,HI,"Kerry, John",democrat,2
+2004,HI,"Bush, George W.",republican,2
+2004,ID,"Bush, George W.",republican,3
+2004,ID,"Kerry, John",democrat,1
+2004,IL,"Kerry, John",democrat,12
+2004,IL,"Bush, George W.",republican,9
+2004,IN,"Bush, George W.",republican,7
+2004,IN,"Kerry, John",democrat,4
+2004,IA,"Bush, George W.",republican,4
+2004,IA,"Kerry, John",democrat,3
+2004,KS,"Bush, George W.",republican,4
+2004,KS,"Kerry, John",democrat,2
+2004,KY,"Bush, George W.",republican,5
+2004,KY,"Kerry, John",democrat,3
+2004,LA,"Bush, George W.",republican,5
+2004,LA,"Kerry, John",democrat,4
+2004,ME,"Kerry, John",democrat,2
+2004,ME,"Bush, George W.",republican,2
+2004,MD,"Kerry, John",democrat,6
+2004,MD,"Bush, George W.",republican,4
+2004,MA,"Kerry, John",democrat,8
+2004,MA,"Bush, George W.",republican,4
+2004,MI,"Kerry, John",democrat,9
+2004,MI,"Bush, George W.",republican,8
+2004,MN,"Kerry, John",democrat,5
+2004,MN,"Bush, George W.",republican,5
+2004,MS,"Bush, George W.",republican,4
+2004,MS,"Kerry, John",democrat,2
+2004,MO,"Bush, George W.",republican,6
+2004,MO,"Kerry, John",democrat,5
+2004,MT,"Bush, George W.",republican,2
+2004,MT,"Kerry, John",democrat,1
+2004,NE,"Bush, George W.",republican,4
+2004,NE,"Kerry, John",democrat,1
+2004,NV,"Bush, George W.",republican,3
+2004,NV,"Kerry, John",democrat,2
+2004,NH,"Kerry, John",democrat,2
+2004,NH,"Bush, George W.",republican,2
+2004,NJ,"Kerry, John",democrat,8
+2004,NJ,"Bush, George W.",republican,7
+2004,NM,"Bush, George W.",republican,3
+2004,NM,"Kerry, John",democrat,2
+2004,NY,"Kerry, John",democrat,19
+2004,NY,"Bush, George W.",republican,12
+2004,NC,"Bush, George W.",republican,8
+2004,NC,"Kerry, John",democrat,7
+2004,ND,"Bush, George W.",republican,2
+2004,ND,"Kerry, John",democrat,1
+2004,OH,"Bush, George W.",republican,10
+2004,OH,"Kerry, John",democrat,10
+2004,OK,"Bush, George W.",republican,5
+2004,OK,"Kerry, John",democrat,2
+2004,OR,"Kerry, John",democrat,4
+2004,OR,"Bush, George W.",republican,3
+2004,PA,"Kerry, John",democrat,11
+2004,PA,"Bush, George W.",republican,10
+2004,RI,"Kerry, John",democrat,3
+2004,RI,"Bush, George W.",republican,1
+2004,SC,"Bush, George W.",republican,5
+2004,SC,"Kerry, John",democrat,3
+2004,SD,"Bush, George W.",republican,2
+2004,SD,"Kerry, John",democrat,1
+2004,TN,"Bush, George W.",republican,6
+2004,TN,"Kerry, John",democrat,5
+2004,TX,"Bush, George W.",republican,21
+2004,TX,"Kerry, John",democrat,13
+2004,UT,"Bush, George W.",republican,4
+2004,UT,"Kerry, John",democrat,1
+2004,VT,"Kerry, John",democrat,2
+2004,VT,"Bush, George W.",republican,1
+2004,VA,"Bush, George W.",republican,7
+2004,VA,"Kerry, John",democrat,6
+2004,WA,"Kerry, John",democrat,6
+2004,WA,"Bush, George W.",republican,5
+2004,WV,"Bush, George W.",republican,3
+2004,WV,"Kerry, John",democrat,2
+2004,WI,"Kerry, John",democrat,5
+2004,WI,"Bush, George W.",republican,5
+2004,WY,"Bush, George W.",republican,2
+2004,WY,"Kerry, John",democrat,1
+2008,AL,"McCain, John",republican,6
+2008,AL,"Obama, Barack H.",democrat,3
+2008,AK,"McCain, John",republican,2
+2008,AK,"Obama, Barack H.",democrat,1
+2008,AZ,"McCain, John",republican,5
+2008,AZ,"Obama, Barack H.",democrat,5
+2008,AR,"McCain, John",republican,4
+2008,AR,"Obama, Barack H.",democrat,2
+2008,CA,"Obama, Barack H.",democrat,34
+2008,CA,"McCain, John",republican,21
+2008,CO,"Obama, Barack H.",democrat,5
+2008,CO,"McCain, John",republican,4
+2008,CT,"Obama, Barack H.",democrat,4
+2008,CT,"McCain, John",republican,3
+2008,DE,"Obama, Barack H.",democrat,2
+2008,DE,"McCain, John",republican,1
+2008,DC,"Obama, Barack H.",democrat,3
+2008,FL,"Obama, Barack H.",democrat,14
+2008,FL,"McCain, John",republican,13
+2008,GA,"McCain, John",republican,8
+2008,GA,"Obama, Barack H.",democrat,7
+2008,HI,"Obama, Barack H.",democrat,3
+2008,HI,"McCain, John",republican,1
+2008,ID,"McCain, John",republican,3
+2008,ID,"Obama, Barack H.",democrat,1
+2008,IL,"Obama, Barack H.",democrat,13
+2008,IL,"McCain, John",republican,8
+2008,IN,"Obama, Barack H.",democrat,6
+2008,IN,"McCain, John",republican,5
+2008,IA,"Obama, Barack H.",democrat,4
+2008,IA,"McCain, John",republican,3
+2008,KS,"McCain, John",republican,4
+2008,KS,"Obama, Barack H.",democrat,2
+2008,KY,"McCain, John",republican,5
+2008,KY,"Obama, Barack H.",democrat,3
+2008,LA,"McCain, John",republican,5
+2008,LA,"Obama, Barack H.",democrat,4
+2008,ME,"Obama, Barack H.",democrat,2
+2008,ME,"McCain, John",republican,2
+2008,MD,"Obama, Barack H.",democrat,6
+2008,MD,"McCain, John",republican,4
+2008,MA,"Obama, Barack H.",democrat,8
+2008,MA,"McCain, John",republican,4
+2008,MI,"Obama, Barack H.",democrat,10
+2008,MI,"McCain, John",republican,7
+2008,MN,"Obama, Barack H.",democrat,6
+2008,MN,"McCain, John",republican,4
+2008,MS,"McCain, John",republican,3
+2008,MS,"Obama, Barack H.",democrat,3
+2008,MO,"McCain, John",republican,6
+2008,MO,"Obama, Barack H.",democrat,5
+2008,MT,"McCain, John",republican,2
+2008,MT,"Obama, Barack H.",democrat,1
+2008,NE,"McCain, John",republican,3
+2008,NE,"Obama, Barack H.",democrat,2
+2008,NV,"Obama, Barack H.",democrat,3
+2008,NV,"McCain, John",republican,2
+2008,NH,"Obama, Barack H.",democrat,2
+2008,NH,"McCain, John",republican,2
+2008,NJ,"Obama, Barack H.",democrat,9
+2008,NJ,"McCain, John",republican,6
+2008,NM,"Obama, Barack H.",democrat,3
+2008,NM,"McCain, John",republican,2
+2008,NY,"Obama, Barack H.",democrat,21
+2008,NY,"McCain, John",republican,10
+2008,NC,"Obama, Barack H.",democrat,8
+2008,NC,"McCain, John",republican,7
+2008,ND,"McCain, John",republican,2
+2008,ND,"Obama, Barack H.",democrat,1
+2008,OH,"Obama, Barack H.",democrat,10
+2008,OH,"McCain, John",republican,10
+2008,OK,"McCain, John",republican,5
+2008,OK,"Obama, Barack H.",democrat,2
+2008,OR,"Obama, Barack H.",democrat,4
+2008,OR,"McCain, John",republican,3
+2008,PA,"Obama, Barack H.",democrat,12
+2008,PA,"McCain, John",republican,9
+2008,RI,"Obama, Barack H.",democrat,3
+2008,RI,"McCain, John",republican,1
+2008,SC,"McCain, John",republican,4
+2008,SC,"Obama, Barack H.",democrat,4
+2008,SD,"McCain, John",republican,2
+2008,SD,"Obama, Barack H.",democrat,1
+2008,TN,"McCain, John",republican,6
+2008,TN,"Obama, Barack H.",democrat,5
+2008,TX,"McCain, John",republican,19
+2008,TX,"Obama, Barack H.",democrat,15
+2008,UT,"McCain, John",republican,3
+2008,UT,"Obama, Barack H.",democrat,2
+2008,VT,"Obama, Barack H.",democrat,2
+2008,VT,"McCain, John",republican,1
+2008,VA,"Obama, Barack H.",democrat,7
+2008,VA,"McCain, John",republican,6
+2008,WA,"Obama, Barack H.",democrat,7
+2008,WA,"McCain, John",republican,4
+2008,WV,"McCain, John",republican,3
+2008,WV,"Obama, Barack H.",democrat,2
+2008,WI,"Obama, Barack H.",democrat,6
+2008,WI,"McCain, John",republican,4
+2008,WY,"McCain, John",republican,2
+2008,WY,"Obama, Barack H.",democrat,1
+2012,AL,"Romney, Mitt",republican,6
+2012,AL,"Obama, Barack H.",democrat,3
+2012,AK,"Romney, Mitt",republican,2
+2012,AK,"Obama, Barack H.",democrat,1
+2012,AZ,"Romney, Mitt",republican,6
+2012,AZ,"Obama, Barack H.",democrat,5
+2012,AR,"Romney, Mitt",republican,4
+2012,AR,"Obama, Barack H.",democrat,2
+2012,CA,"Obama, Barack H.",democrat,34
+2012,CA,"Romney, Mitt",republican,21
+2012,CO,"Obama, Barack H.",democrat,5
+2012,CO,"Romney, Mitt",republican,4
+2012,CT,"Obama, Barack H.",democrat,4
+2012,CT,"Romney, Mitt",republican,3
+2012,DE,"Obama, Barack H.",democrat,2
+2012,DE,"Romney, Mitt",republican,1
+2012,DC,"Obama, Barack H.",democrat,3
+2012,FL,"Obama, Barack H.",democrat,15
+2012,FL,"Romney, Mitt",republican,14
+2012,GA,"Romney, Mitt",republican,9
+2012,GA,"Obama, Barack H.",democrat,7
+2012,HI,"Obama, Barack H.",democrat,3
+2012,HI,"Romney, Mitt",republican,1
+2012,ID,"Romney, Mitt",republican,3
+2012,ID,"Obama, Barack H.",democrat,1
+2012,IL,"Obama, Barack H.",democrat,12
+2012,IL,"Romney, Mitt",republican,8
+2012,IN,"Romney, Mitt",republican,6
+2012,IN,"Obama, Barack H.",democrat,5
+2012,IA,"Obama, Barack H.",democrat,3
+2012,IA,"Romney, Mitt",republican,3
+2012,KS,"Romney, Mitt",republican,4
+2012,KS,"Obama, Barack H.",democrat,2
+2012,KY,"Romney, Mitt",republican,5
+2012,KY,"Obama, Barack H.",democrat,3
+2012,LA,"Romney, Mitt",republican,5
+2012,LA,"Obama, Barack H.",democrat,3
+2012,ME,"Obama, Barack H.",democrat,2
+2012,ME,"Romney, Mitt",republican,2
+2012,MD,"Obama, Barack H.",democrat,6
+2012,MD,"Romney, Mitt",republican,4
+2012,MA,"Obama, Barack H.",democrat,7
+2012,MA,"Romney, Mitt",republican,4
+2012,MI,"Obama, Barack H.",democrat,9
+2012,MI,"Romney, Mitt",republican,7
+2012,MN,"Obama, Barack H.",democrat,5
+2012,MN,"Romney, Mitt",republican,5
+2012,MS,"Romney, Mitt",republican,3
+2012,MS,"Obama, Barack H.",democrat,3
+2012,MO,"Romney, Mitt",republican,6
+2012,MO,"Obama, Barack H.",democrat,4
+2012,MT,"Romney, Mitt",republican,2
+2012,MT,"Obama, Barack H.",democrat,1
+2012,NE,"Romney, Mitt",republican,3
+2012,NE,"Obama, Barack H.",democrat,2
+2012,NV,"Obama, Barack H.",democrat,3
+2012,NV,"Romney, Mitt",republican,3
+2012,NH,"Obama, Barack H.",democrat,2
+2012,NH,"Romney, Mitt",republican,2
+2012,NJ,"Obama, Barack H.",democrat,8
+2012,NJ,"Romney, Mitt",republican,6
+2012,NM,"Obama, Barack H.",democrat,3
+2012,NM,"Romney, Mitt",republican,2
+2012,NY,"Obama, Barack H.",democrat,19
+2012,NY,"Romney, Mitt",republican,10
+2012,NC,"Romney, Mitt",republican,8
+2012,NC,"Obama, Barack H.",democrat,7
+2012,ND,"Romney, Mitt",republican,2
+2012,ND,"Obama, Barack H.",democrat,1
+2012,OH,"Obama, Barack H.",democrat,9
+2012,OH,"Romney, Mitt",republican,9
+2012,OK,"Romney, Mitt",republican,5
+2012,OK,"Obama, Barack H.",democrat,2
+2012,OR,"Obama, Barack H.",democrat,4
+2012,OR,"Romney, Mitt",republican,3
+2012,PA,"Obama, Barack H.",democrat,11
+2012,PA,"Romney, Mitt",republican,9
+2012,RI,"Obama, Barack H.",democrat,3
+2012,RI,"Romney, Mitt",republican,1
+2012,SC,"Romney, Mitt",republican,5
+2012,SC,"Obama, Barack H.",democrat,4
+2012,SD,"Romney, Mitt",republican,2
+2012,SD,"Obama, Barack H.",democrat,1
+2012,TN,"Romney, Mitt",republican,7
+2012,TN,"Obama, Barack H.",democrat,4
+2012,TX,"Romney, Mitt",republican,22
+2012,TX,"Obama, Barack H.",democrat,16
+2012,UT,"Romney, Mitt",republican,5
+2012,UT,"Obama, Barack H.",democrat,1
+2012,VT,"Obama, Barack H.",democrat,2
+2012,VT,"Romney, Mitt",republican,1
+2012,VA,"Obama, Barack H.",democrat,7
+2012,VA,"Romney, Mitt",republican,6
+2012,WA,"Obama, Barack H.",democrat,7
+2012,WA,"Mitt, Romney",republican,5
+2012,WV,"Romney, Mitt",republican,3
+2012,WV,"Obama, Barack H.",democrat,2
+2012,WI,"Obama, Barack H.",democrat,5
+2012,WI,"Romney, Mitt",republican,5
+2012,WY,"Romney, Mitt",republican,2
+2012,WY,"Obama, Barack H.",democrat,1
+2016,AL,"Trump, Donald J.",republican,6
+2016,AL,"Clinton, Hillary",democrat,3
+2016,AK,"Trump, Donald J.",republican,2
+2016,AK,"Clinton, Hillary",democrat,1
+2016,AZ,"Trump, Donald J.",republican,6
+2016,AZ,"Clinton, Hillary",democrat,5
+2016,AR,"Trump, Donald J.",republican,4
+2016,AR,"Clinton, Hillary",democrat,2
+2016,CA,"Clinton, Hillary",democrat,37
+2016,CA,"Trump, Donald J.",republican,18
+2016,CO,"Clinton, Hillary",democrat,5
+2016,CO,"Trump, Donald J.",republican,4
+2016,CT,"Clinton, Hillary",democrat,4
+2016,CT,"Trump, Donald J.",republican,3
+2016,DE,"Clinton, Hillary",democrat,2
+2016,DE,"Trump, Donald J.",republican,1
+2016,DC,"Clinton, Hillary",democrat,3
+2016,FL,"Trump, Donald J.",republican,15
+2016,FL,"Clinton, Hillary",democrat,14
+2016,GA,"Trump, Donald J.",republican,8
+2016,GA,"Clinton, Hillary",democrat,8
+2016,HI,"Clinton, Hillary",democrat,3
+2016,HI,"Trump, Donald J.",republican,1
+2016,ID,"Trump, Donald J.",republican,3
+2016,ID,"Clinton, Hillary",democrat,1
+2016,IL,"Clinton, Hillary",democrat,12
+2016,IL,"Trump, Donald J.",republican,8
+2016,IN,"Trump, Donald J.",republican,7
+2016,IN,"Clinton, Hillary",democrat,4
+2016,IA,"Trump, Donald J.",republican,3
+2016,IA,"Clinton, Hillary",democrat,3
+2016,KS,"Trump, Donald J.",republican,4
+2016,KS,"Clinton, Hillary",democrat,2
+2016,KY,"Trump, Donald J.",republican,5
+2016,KY,"Clinton, Hillary",democrat,3
+2016,LA,"Trump, Donald J.",republican,5
+2016,LA,"Clinton, Hillary",democrat,3
+2016,ME,"Clinton, Hillary",democrat,2
+2016,ME,"Trump, Donald J.",republican,2
+2016,MD,"Clinton, Hillary",democrat,7
+2016,MD,"Trump, Donald J.",republican,3
+2016,MA,"Clinton, Hillary",democrat,7
+2016,MA,"Trump, Donald J.",republican,4
+2016,MI,"Trump, Donald J.",republican,8
+2016,MI,"Clinton, Hillary",democrat,8
+2016,MN,"Clinton, Hillary",democrat,5
+2016,MN,"Trump, Donald J.",republican,5
+2016,MS,"Trump, Donald J.",republican,4
+2016,MS,"Clinton, Hillary",democrat,2
+2016,MO,"Trump, Donald J.",republican,6
+2016,MO,"Clinton, Hillary",democrat,4
+2016,MT,"Trump, Donald J.",republican,2
+2016,MT,"Clinton, Hillary",democrat,1
+2016,NE,"Trump, Donald J.",republican,3
+2016,NE,"Clinton, Hillary",democrat,2
+2016,NV,"Clinton, Hillary",democrat,3
+2016,NV,"Trump, Donald J.",republican,3
+2016,NH,"Clinton, Hillary",democrat,2
+2016,NH,"Trump, Donald J.",republican,2
+2016,NJ,"Clinton, Hillary",democrat,8
+2016,NJ,"Trump, Donald J.",republican,6
+2016,NM,"Clinton, Hillary",democrat,3
+2016,NM,"Trump, Donald J.",republican,2
+2016,NY,"Clinton, Hillary",democrat,19
+2016,NY,"Trump, Donald J.",republican,10
+2016,NC,"Trump, Donald J.",republican,8
+2016,NC,"Clinton, Hillary",democrat,7
+2016,ND,"Trump, Donald J.",republican,2
+2016,ND,"Clinton, Hillary",democrat,1
+2016,OH,"Trump, Donald J.",republican,10
+2016,OH,"Clinton, Hillary",democrat,8
+2016,OK,"Trump, Donald J.",republican,5
+2016,OK,"Clinton, Hillary",democrat,2
+2016,OR,"Clinton, Hillary",democrat,4
+2016,OR,"Trump, Donald J.",republican,3
+2016,PA,"Trump, Donald J.",republican,10
+2016,PA,"Clinton, Hillary",democrat,10
+2016,RI,"Clinton, Hillary",democrat,2
+2016,RI,"Trump, Donald J.",republican,2
+2016,SC,"Trump, Donald J.",republican,5
+2016,SC,"Clinton, Hillary",democrat,4
+2016,SD,"Trump, Donald J.",republican,2
+2016,SD,"Clinton, Hillary",democrat,1
+2016,TN,"Trump, Donald J.",republican,7
+2016,TN,"Clinton, Hillary",democrat,4
+2016,TX,"Trump, Donald J.",republican,21
+2016,TX,"Clinton, Hillary",democrat,17
+2016,UT,"Trump, Donald J.",republican,3
+2016,UT,"Clinton, Hillary",democrat,2
+2016,UT,"McMullin, Evan",no party affiliation,1
+2016,VT,"Clinton, Hillary",democrat,2
+2016,VT,"Trump, Donald J.",republican,1
+2016,VA,"Clinton, Hillary",democrat,7
+2016,VA,"Trump, Donald J.",republican,6
+2016,WA,"Clinton, Hillary",democrat,7
+2016,WA,"Trump, Donald J.",republican,5
+2016,WV,"Trump, Donald J.",republican,4
+2016,WV,"Clinton, Hillary",democrat,1
+2016,WI,"Trump, Donald J.",republican,5
+2016,WI,"Clinton, Hillary",democrat,5
+2016,WY,"Trump, Donald J.",republican,3
+2016,WY,"Clinton, Hillary",democrat,0

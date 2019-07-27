@@ -1,0 +1,77 @@
+body {
+    display: grid;
+    grid-template-columns: 800px 1fr;
+    grid-gap: 0.5em;
+}
+
+#map {
+    /* margin-left: 0.25em; */
+    width: 800px;
+    border: 1px solid black;
+    grid-column: 1/2;
+    grid-row: 2/3;
+}
+
+#controls {
+    display: flex;
+    /* margin: 0.25em; */
+    padding: 0.5em;
+    border: 1px solid black;
+    width: calc(800px - 1em);
+    font-family: sans-serif;
+    grid-column: 1/2;
+    grid-row: 1/2;
+}
+
+#controls div {
+    margin: 0 1em;
+}
+
+#state-information {
+    grid-column: 2/3;
+    grid-row: 1/3;
+    border: 1px solid black;
+    padding-top: 5em;
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+    margin-left: 0.5em;
+
+    font-family: sans-serif;
+    text-align: center;
+}
+
+#republican-info {
+    color: red;
+}
+
+#democrat-info {
+    color: blue;
+}
+
+#third-party-info {
+    color: gold;
+}
+
+#election-summary {
+    grid-column: 1/3;
+    grid-row: 3/4;
+    border: 1px solid black;
+}
+
+#election-summary > svg {
+    padding: 2em 0.5em;
+    max-height: 50px;
+    width: calc(100% - 1em);
+}
+
+#election-summary #candidates {
+    font-family: sans-serif;
+    text-align: center;
+    margin-left: 1em;
+    margin-right: 1em;
+}
+
+.candidate {
+    max-height: 4em;
+    width: 30%;
+}
