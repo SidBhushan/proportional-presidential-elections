@@ -170,6 +170,13 @@ function fillData(electionData, year, svg, summarySVG) {
                 return electorScale(thirdPartyElectors)
             })
             .attr('fill', 'yellow')
+            .on('mouseover', (d, i, nodes) => {
+                stateName.innerHTML = document.querySelector(`#${d.name} title`).innerHTML
+                onHover(yearData, d.candidates)
+            })
+            .on('mouseout', (d, i, nodes) => {
+                deHover()
+            })
         let states = svg.selectAll('.state path, g#DC')
             .data(yearData, (d, i, nodes) => d ? d.name : nodes[i].id)
         let colorScale = d3.scaleLinear()
@@ -218,84 +225,14 @@ function fillData(electionData, year, svg, summarySVG) {
         })
     }
 
-    let stateName = document.getElementById('state-name')
-    let republicanInfo = {
-        name: document.getElementById('republican-name'),
-        electors: document.getElementById('republican-electors')
-    }
-    let democratInfo = {
-        name: document.getElementById('democrat-name'),
-        electors: document.getElementById('democrat-electors')
-    }
-    let thirdPartyInfo = {
-        name: document.getElementById('third-party-name'),
-        electors: document.getElementById('third-party-electors')
-    }
-    let totalElectorsSpan = document.getElementById('total-electors')
-
     svg.selectAll('.state path, g#DC')
         .data(yearData, (d, i, nodes) => d ? d.name : nodes[i].id)
         .on('mouseover', (d, i, nodes) => {
             stateName.innerText = nodes[i].children[0].innerHTML
-            let republicanCandidate = d.candidates.filter(candidate => candidate.party === 'republican')[0]
-            if (!republicanCandidate) {
-                republicanCandidate = {
-                    electors: 0, candidate:
-                        yearData
-                            .filter(state => state.candidates
-                                .filter(candidate => candidate.party === 'republican')[0]
-                            )[0].candidates.filter(candidate => candidate.party === 'republican')[0].candidate
-                }
-            }
-            let democratCandidate = d.candidates.filter(candidate => candidate.party === 'democrat')[0]
-            if (!democratCandidate) {
-                democratCandidate = {
-                    electors: 0, candidate:
-                        yearData
-                            .filter(state => state.candidates
-                                .filter(candidate => candidate.party === 'democrat')[0]
-                            )[0].candidates.filter(candidate => candidate.party === 'democrat')[0].candidate
-                }
-            }
-            let thirdPartyCandidate = d.candidates.filter(candidate => candidate.party !== 'republican' && candidate.party !== 'democrat')[0]
-            if (!thirdPartyCandidate) {
-                thirdPartyCandidate = {
-                    electors: 0, candidate: (() => {
-                        let possibleThirdPartyCandidateState = yearData
-                            .filter(state => state.candidates
-                                .filter(candidate => candidate.party !== 'republican' && candidate.party !== 'democrat')[0]
-                            )[0]
-                        if (!possibleThirdPartyCandidateState) {
-                            return 'Third Party,'
-                        }
-                        return possibleThirdPartyCandidateState.candidates.filter(candidate => candidate.party !== 'republican' && candidate.party !== 'democrat')[0].candidate
-                    })()
-                }
-            }
-            let totalElectors = d.candidates.reduce((acc, val) => acc + parseInt(val.electors), 0)
-
-            let republicanName = republicanCandidate.candidate.split(',')
-            republicanInfo.name.innerText = (republicanName[1] + ' ' + republicanName[0]).replace(/\"\"/g, '"')
-            let democratName = democratCandidate.candidate.split(',')
-            democratInfo.name.innerText = (democratName[1] + ' ' + democratName[0]).replace(/\"\"/g, '"')
-            let thirdPartyName = thirdPartyCandidate.candidate.split(',')
-            thirdPartyInfo.name.innerText = (thirdPartyName[1] + ' ' + thirdPartyName[0]).replace(/\"\"/g, '"')
-
-            republicanInfo.electors.innerText = republicanCandidate.electors
-            democratInfo.electors.innerText = democratCandidate.electors
-            thirdPartyInfo.electors.innerText = thirdPartyCandidate.electors
-
-            totalElectorsSpan.innerText = totalElectors
+            onHover(yearData, d.candidates)
         })
         .on('mouseout', d => {
-            stateName.innerText = 'Hover over a State'
-            republicanInfo.name.innerText = 'Republican'
-            republicanInfo.electors.innerText = 0
-            democratInfo.name.innerText = 'Democrat'
-            democratInfo.electors.innerText = 0
-            thirdPartyInfo.name.innerText = 'Third Party'
-            thirdPartyInfo.electors.innerText = 0
-            totalElectorsSpan.innerText = 0
+            deHover()
         })
 
     summarySVG.html('')
@@ -360,7 +297,7 @@ function fillData(electionData, year, svg, summarySVG) {
         .attr('height', 100)
         .attr('stroke-width', 0)
         .attr('fill', d => d.color)
-    
+
     summarySVG.append('line')
         .attr('x1', 270)
         .attr('y1', -10)
@@ -411,4 +348,82 @@ function getColor(republicanElectors, democratElectors, thirdPartyElectors) {
     let blue = democratColor / totalElectors
     let green = thirdPartyColor / totalElectors
     return d3.rgb(red, green, blue)
+}
+
+let stateName = document.getElementById('state-name')
+let republicanInfo = {
+    name: document.getElementById('republican-name'),
+    electors: document.getElementById('republican-electors')
+}
+let democratInfo = {
+    name: document.getElementById('democrat-name'),
+    electors: document.getElementById('democrat-electors')
+}
+let thirdPartyInfo = {
+    name: document.getElementById('third-party-name'),
+    electors: document.getElementById('third-party-electors')
+}
+let totalElectorsSpan = document.getElementById('total-electors')
+
+function onHover(yearData, candidates) {
+    let republicanCandidate = candidates.filter(candidate => candidate.party === 'republican')[0]
+    if (!republicanCandidate) {
+        republicanCandidate = {
+            electors: 0, candidate:
+                yearData
+                    .filter(state => state.candidates
+                        .filter(candidate => candidate.party === 'republican')[0]
+                    )[0].candidates.filter(candidate => candidate.party === 'republican')[0].candidate
+        }
+    }
+    let democratCandidate = candidates.filter(candidate => candidate.party === 'democrat')[0]
+    if (!democratCandidate) {
+        democratCandidate = {
+            electors: 0, candidate:
+                yearData
+                    .filter(state => state.candidates
+                        .filter(candidate => candidate.party === 'democrat')[0]
+                    )[0].candidates.filter(candidate => candidate.party === 'democrat')[0].candidate
+        }
+    }
+    let thirdPartyCandidate = candidates.filter(candidate => candidate.party !== 'republican' && candidate.party !== 'democrat')[0]
+    if (!thirdPartyCandidate) {
+        thirdPartyCandidate = {
+            electors: 0, candidate: (() => {
+                let possibleThirdPartyCandidateState = yearData
+                    .filter(state => state.candidates
+                        .filter(candidate => candidate.party !== 'republican' && candidate.party !== 'democrat')[0]
+                    )[0]
+                if (!possibleThirdPartyCandidateState) {
+                    return 'Third Party,'
+                }
+                return possibleThirdPartyCandidateState.candidates.filter(candidate => candidate.party !== 'republican' && candidate.party !== 'democrat')[0].candidate
+            })()
+        }
+    }
+    let totalElectors = candidates.reduce((acc, val) => acc + parseInt(val.electors), 0)
+
+    let republicanName = republicanCandidate.candidate.split(',')
+    republicanInfo.name.innerText = (republicanName[1] + ' ' + republicanName[0]).replace(/\"\"/g, '"')
+    let democratName = democratCandidate.candidate.split(',')
+    democratInfo.name.innerText = (democratName[1] + ' ' + democratName[0]).replace(/\"\"/g, '"')
+    let thirdPartyName = thirdPartyCandidate.candidate.split(',')
+    thirdPartyInfo.name.innerText = (thirdPartyName[1] + ' ' + thirdPartyName[0]).replace(/\"\"/g, '"')
+
+    republicanInfo.electors.innerText = republicanCandidate.electors
+    democratInfo.electors.innerText = democratCandidate.electors
+    thirdPartyInfo.electors.innerText = thirdPartyCandidate.electors
+
+    totalElectorsSpan.innerText = totalElectors
+}
+
+function deHover() {
+    stateName.innerText = 'Hover over a State'
+    republicanInfo.name.innerText = 'Republican'
+    republicanInfo.electors.innerText = 0
+    democratInfo.name.innerText = 'Democrat'
+    democratInfo.electors.innerText = 0
+    thirdPartyInfo.name.innerText = 'Third Party'
+    thirdPartyInfo.electors.innerText = 0
+    totalElectorsSpan.innerText = 0
 }
