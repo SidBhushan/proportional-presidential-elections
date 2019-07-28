@@ -87,21 +87,6 @@ function fillData(electionData, year, svg, summarySVG) {
         let selection = svg.selectAll('.state path, g#DC')
             .data(yearData, (d, i, nodes) => d ? d.name : nodes[i].id)
         selection.attr('fill', d => {
-            // let republicanCandidate = d.candidates.filter(candidate => candidate.party === 'republican')[0]
-            // if (!republicanCandidate) {
-            //     republicanCandidate = { electors: 0 }
-            // }
-            // let democratCandidate = d.candidates.filter(candidate => candidate.party === 'democrat')[0]
-            // if (!democratCandidate) {
-            //     democratCandidate = { electors: 0 }
-            // }
-            // let thirdPartyCandidate = d.candidates.filter(candidate => candidate.party !== 'republican' && candidate.party !== 'democrat')[0]
-            // if (!thirdPartyCandidate) {
-            //     thirdPartyCandidate = { electors: 0 }
-            // }
-
-            // return getColor(parseInt(republicanCandidate.electors), parseInt(democratCandidate.electors), parseInt(thirdPartyCandidate.electors))
-
             let totalElectors = d.candidates.reduce((acc, val) => acc + parseInt(val.electors), 0)
             let republicanColorScale = d3.scaleLinear()
                 .domain([0, totalElectors])
@@ -179,24 +164,7 @@ function fillData(electionData, year, svg, summarySVG) {
             })
         let states = svg.selectAll('.state path, g#DC')
             .data(yearData, (d, i, nodes) => d ? d.name : nodes[i].id)
-        let colorScale = d3.scaleLinear()
-            .domain([0, 1])
-            .range([d3.color('blue'), d3.color('red')])
         states.attr('fill', d => {
-            // let republicanCandidate = d.candidates.filter(candidate => candidate.party === 'republican')[0]
-            // if (!republicanCandidate) {
-            //     republicanCandidate = { electors: 0 }
-            // }
-            // let republicanElectors = republicanCandidate.electors
-            // let democratCandidate = d.candidates.filter(candidate => candidate.party === 'democrat')[0]
-            // if (!democratCandidate) {
-            //     democratCandidate = { electors: 0 }
-            // }
-            // let democratElectors = democratCandidate.electors
-            // let totalElectors = d.candidates.reduce((acc, val) => acc + parseInt(val.electors), 0)
-            // let portionRepublican = republicanElectors / totalElectors
-            // return colorScale(portionRepublican)
-
             let totalElectors = d.candidates.reduce((acc, val) => acc + parseInt(val.electors), 0)
             let republicanColorScale = d3.scaleLinear()
                 .domain([0, totalElectors])
