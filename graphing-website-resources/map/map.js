@@ -1,6 +1,7 @@
 const width = 800
 const height = 500
 let circlesMode = false
+let showAbsoluteWinners = false
 
 d3.text('./graphing-website-resources/data/map.svg').then(async mapSVGText => {
     d3.select('#map')
@@ -45,16 +46,33 @@ d3.text('./graphing-website-resources/data/map.svg').then(async mapSVGText => {
     })
 
     let circleModeCheckbox = document.getElementById('circle-mode-checkbox')
+    let showAbsoluteWinnersCheckbox = document.getElementById('absolute-winners-mode-checkbox')
+
     circleModeCheckbox.addEventListener('change', event => {
         if (event.target.checked) {
             circlesMode = true
             fillData(electionData, yearSelector.node().value, svg, summarySVG)
+            showAbsoluteWinnersCheckbox.checked = false
+            showAbsoluteWinnersCheckbox.dispatchEvent(new Event('change'))
         } else {
             circlesMode = false
             fillData(electionData, yearSelector.node().value, svg, summarySVG)
         }
     })
     circleModeCheckbox.checked = false
+
+    showAbsoluteWinnersCheckbox.addEventListener('change', event => {
+        if (event.target.checked) {
+            showAbsoluteWinners = true
+            fillData(electionData, yearSelector.node().value, svg, summarySVG)
+            circleModeCheckbox.checked = false
+            circleModeCheckbox.dispatchEvent(new Event('change'))
+        } else {
+            showAbsoluteWinners = false
+            fillData(electionData, yearSelector.node().value, svg, summarySVG)
+        }
+    })
+    showAbsoluteWinnersCheckbox.checked = false
 })
 
 function compositeColors() {
@@ -83,7 +101,7 @@ function fillData(electionData, year, svg, summarySVG) {
 
     d3.select('#election-circles').html('')
 
-    if (!circlesMode) {
+    if (!circlesMode && !showAbsoluteWinners) {
         let selection = svg.selectAll('.state path, g#DC')
             .data(yearData, (d, i, nodes) => d ? d.name : nodes[i].id)
         selection.attr('fill', d => {
@@ -125,7 +143,7 @@ function fillData(electionData, year, svg, summarySVG) {
             return compositeColors(3, republicanColor, democratColor, thirdPartyColor)
 
         })
-    } else {
+    } else if (!showAbsoluteWinners) {
         let electionCirclesGroup = svg.select('#election-circles')
         electionCirclesGroup.selectAll('circle.election-circle')
             .data(yearData)
@@ -190,6 +208,24 @@ function fillData(electionData, year, svg, summarySVG) {
             }
 
             return compositeColors(2, republicanColor, democratColor)
+        })
+    } else {
+        let selection = svg.selectAll('.state path, g#DC')
+            .data(yearData, (d, i, nodes) => d ? d.name : nodes[i].id)
+        selection.attr('fill', d => {
+            let republicanCandidate = d.candidates.filter(candidate => candidate.party === 'republican')[0]
+            if (!republicanCandidate) {
+                republicanCandidate = { electors: 0 }
+            }
+            let republicanElectors = parseInt(republicanCandidate.electors)
+
+            let democratCandidate = d.candidates.filter(candidate => candidate.party === 'democrat')[0]
+            if (!democratCandidate) {
+                democratCandidate = { electors: 0 }
+            }
+            let democratElectors = parseInt(democratCandidate.electors)
+
+            return democratElectors > republicanElectors ? 'blue': (republicanElectors > democratElectors ? 'red': 'purple')
         })
     }
 
